@@ -1,0 +1,19 @@
+label.error {
+	color: #a94442;
+}
+
+input.error {
+	border: 1px solid #a94442;
+}
+
+#ModalAdmin #alertWidget {
+	margin: 0 15px;
+}
+
+#ModalAddTask #alertWidget {
+	margin: 0 15px;
+}
+
+#ModalAdminEdit #alertWidget {
+	margin: 0 15px;
+}

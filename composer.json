@@ -1,0 +1,13 @@
+{
+	"require": {
+		"symfony/validator": "^5.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"core\\base\\": "vendor/core/base",
+			"app\\controllers\\": "controllers",
+			"app\\models\\": "models",
+			"app\\components\\": "components"
+		}
+	}
+}
